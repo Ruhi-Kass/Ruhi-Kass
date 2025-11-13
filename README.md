@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating projects since 2022 <br>📚 I'm currently a  4th year sutdent at HiLCoE School of Computer Science & Technology
+<p align="left">✨ Creating projects since 2022 <br>📚 I'm currently an undergrad  4th year sutdent at HiLCoE School of Computer Science & Technology
   <br>🎯 Goals: I want to AI developer in my future career .<br>🎲 
   Fun fact: I am also a painter and a writer </p>
 
