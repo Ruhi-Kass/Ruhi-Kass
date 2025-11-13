@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm a Software Developer from Ethiopia</p>
+<h3 align="left">I'm a Software Developer from Ethiopia</h3>
 
 ###
 
